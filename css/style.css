@@ -1,0 +1,38 @@
+h1{
+    font-size: 54px;
+}
+li{
+    font-size: 36px;
+}
+.content{
+    margin: 0 auto;
+    max-width: 1280px;
+    
+
+}
+img{
+    display: block;
+}
+.foto{
+ 
+    margin-right: 100px;
+}
+.main
+{
+display: flex;
+}
+
+.result{
+    margin: 0 auto;
+ 
+   text-align: center;
+
+}
+.top{
+margin-top: 50px;
+}
+.bottom{
+margin-bottom: 150px;
+}
+
+/*---------------------------------------------------hhhhhh-----*/
